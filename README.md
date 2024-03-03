@@ -10,5 +10,5 @@ ABOUT ME
     -Front-end: Frameworks Css e JavaScript
     - Back-end: Mysql, Sql, C#, PHP
 - 📫 How to reach me: isabella.srodri01@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she
 
