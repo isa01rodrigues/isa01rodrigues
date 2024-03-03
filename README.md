@@ -1,5 +1,8 @@
 hello dev !
 
+👩🏼‍💻Dev Júnior | Web & Desktop 🌐🖥️
+Passionate about turning ideas into code
+
 ABOUT ME
 
 - 🔭 Working with Freelancer projects
