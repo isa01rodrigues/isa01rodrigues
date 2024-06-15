@@ -6,9 +6,12 @@ Passionate about turning ideas into code
 ABOUT ME
 
 - 🔭 Working with Freelancer projects
-- 🌱 I work with:
-    -Front-end: Frameworks Css e JavaScript
-    - Back-end: Mysql, Sql, C#, PHP
+-🛠️ Minhas Habilidades 
+-Front-End: HTML, CSS, JavaScript
+-Frameworks e Bibliotecas: jQuery e Bootstrap
+-Back-End: PHP ,MySQL, SQL, C#
+
+
 - 📫 How to reach me: isabella.srodri01@gmail.com
 - 😄 Pronouns: she
 
