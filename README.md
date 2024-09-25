@@ -1,6 +1,6 @@
 ##hello dev !
 
-👩🏼‍💻Dev Júnior | Web & Desktop 🌐🖥️
+👩🏼‍💻Dev Júnior Full Stack Php | Web 🌐🖥️
 Passionate about turning ideas into code
 
 ABOUT ME
