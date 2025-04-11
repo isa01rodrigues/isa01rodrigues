@@ -1,7 +1,7 @@
 ##hello dev !
 
 🌐🖥️Desenvolvedora Full Stack Júnior e Web Designer
-Apaixonada por construir soluções digitais que unem funcionalidade e estética. Com formação em ADS e Técnica em Informática
+Apaixonada por construir soluções digitais. Com formação em ADS e Técnica em Informática
 
 🌎 Gosto de transformar ideias em projetos bem estruturados, responsivos e centrados no usuário — desde landing pages simples até sistemas completos. Já contribui com projetos acadêmicos e sociais que automatizaram serviços e geraram impacto real.
 
