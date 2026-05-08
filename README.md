@@ -5,11 +5,6 @@ Apaixonada por construir soluções digitais. Com formação em ADS e Técnica e
 
 🌎 Gosto de transformar ideias em projetos bem estruturados, responsivos e centrados no usuário — desde landing pages simples até sistemas completos. Já contribui com projetos acadêmicos e sociais que automatizaram serviços e geraram impacto real.
 
-🚀 Atualmente, estou em busca de oportunidades (remotas ou híbridas) onde eu possa crescer como desenvolvedora, colaborar com equipes inovadoras e contribuir com projetos que transformem a experiência do usuário.
-
-💡 Além da programação, possuo fortes soft skills como criatividade, pensamento crítico, gestão de tempo e trabalho em equipe. Estou sempre em busca de aprendizado e evolução constante.
-
-📬 Vamos nos conectar?
 
 ABOUT ME
 
