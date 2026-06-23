@@ -1,23 +1,63 @@
-##hello dev !
+# 👋 Olá, eu sou Isabella Rodrigues
 
-🌐🖥️Desenvolvedora Full Stack Júnior e Web Designer
-Apaixonada por construir soluções digitais. Com formação em ADS e Técnica em Informática
+<p align="center">
+💻 Desenvolvedora Web Full Stack em formação • UI Designer • Técnica em Informática
+</p>
 
-🌎 Gosto de transformar ideias em projetos bem estruturados, responsivos e centrados no usuário — desde landing pages simples até sistemas completos. Já contribui com projetos acadêmicos e sociais que automatizaram serviços e geraram impacto real.
+<p align="center">
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-ABOUT ME
+</p>
 
-- 🔭 Working with Freelancer projects
-- 🛠️ Minhas Habilidades
-- Front-End: HTML, CSS, JavaScript
-- Frameworks e Bibliotecas: jQuery,Bootstrap, tailwindCss e Laravel
-- Back-End: PHP ,MySQL, SQL, C#  
-- 📫 How to reach me: isabella.srodri01@gmail.com
-- 😄 Pronouns: she
+---
 
+# 🚀 Sobre mim
 
+Sou Desenvolvedora Web apaixonada por tecnologia, design e criação de soluções que transformam ideias em experiências digitais.
 
+Minha jornada começou com o curso Técnico em Informática e evoluiu para a graduação em Análise e Desenvolvimento de Sistemas. Desde então venho desenvolvendo projetos acadêmicos, pessoais e profissionais voltados para desenvolvimento web, automação de processos e interfaces responsivas.
 
+Atualmente estou aprofundando meus conhecimentos em Front-end moderno através de Bootcamps, estudando React, TypeScript e desenvolvimento de aplicações escaláveis, enquanto continuo aprimorando minhas habilidades em Back-end com PHP e Laravel.
 
-      
+Meu objetivo é construir aplicações modernas, intuitivas e que proporcionem uma excelente experiência para o usuário.
+
+---
+
+# 💻 Tecnologias
+### Front-end
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Tailwind CSS
+
+### Back-end
+- PHP
+- MySQL
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+# 📚 Atualmente estudando
+- React
+- TypeScript
+- Desenvolvimento Front-end Moderno
+- APIs REST
+- Azure
+- Boas práticas de UI/UX
+
+---
