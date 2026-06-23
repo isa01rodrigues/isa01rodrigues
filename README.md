@@ -21,14 +21,8 @@
 
 # 🚀 Sobre mim
 
-Sou Desenvolvedora Web apaixonada por tecnologia, design e criação de soluções que transformam ideias em experiências digitais.
-
-Minha jornada começou com o curso Técnico em Informática e evoluiu para a graduação em Análise e Desenvolvimento de Sistemas. Desde então venho desenvolvendo projetos acadêmicos, pessoais e profissionais voltados para desenvolvimento web, automação de processos e interfaces responsivas.
-
-Atualmente estou aprofundando meus conhecimentos em Front-end moderno através de Bootcamps, estudando React, TypeScript e desenvolvimento de aplicações escaláveis, enquanto continuo aprimorando minhas habilidades em Back-end com PHP e Laravel.
-
-Meu objetivo é construir aplicações modernas, intuitivas e que proporcionem uma excelente experiência para o usuário.
-
+Sou Desenvolvedora Full Stack PHP apaixonada por tecnologia, design e criação de soluções digitais.
+Minha trajetória começou no curso Técnico em Informática e evoluiu para a graduação em Análise e Desenvolvimento de Sistemas, onde desenvolvi projetos acadêmicos e pessoais voltados para web, automação e interfaces responsivas.Atualmente atuo como **Full Stack PHP**, utilizando tecnologias como **Laravel, PHP, JavaScript e MySQL** na construção de aplicações completas.Também estou participando de um **Bootcamp Full Stack Java**, com foco em **Java, Spring Boot, React e TypeScript**, com o objetivo de expandir minha atuação para o ecossistema Java e me tornar uma desenvolvedora ainda mais completa.Acredito no aprendizado contínuo e busco evoluir constantemente para criar aplicações modernas, funcionais e centradas na experiência do usuário.
 ---
 
 # 💻 Tecnologias
