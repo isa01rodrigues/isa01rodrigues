@@ -7,7 +7,6 @@
 <p align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,3 +60,26 @@ Meu objetivo é construir aplicações modernas, intuitivas e que proporcionem u
 - Boas práticas de UI/UX
 
 ---
+📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isa01rodrigues&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa01rodrigues&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Onde me encontrar
+💼 Portfólio
+https://bellastech.com.br
+
+💼 LinkedIn
+www.linkedin.com/in/isabelladasilvarodriguesdev
+
+---
+
+# ✨ Curiosidade
+"Acredito que tecnologia vai muito além de escrever código. Meu objetivo é desenvolver soluções que facilitem a vida das pessoas, aliando design, funcionalidade e boas práticas de desenvolvimento."
