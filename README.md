@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Isabella Rodrigues
 
 <p align="center">
-💻 Desenvolvedora Web Full Stack em formação • UI Designer • Técnica em Informática
+💻 Desenvolvedora Web Full Stack• UI Designer • Técnica em Informática
 </p>
 
 <p align="center">
